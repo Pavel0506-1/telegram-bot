@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram import F
 import re
 
-TOKEN = "8612656627:AAE4veZtESJDKjX3JA9rCmGCpqEJ6z4FUcc"  
+TOKEN = "8654456305:AAHN8-QHfYK49gKHpRzM6zcPVCx7_-8TFQU"  
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
